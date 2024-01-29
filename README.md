@@ -17,7 +17,7 @@ Check out the [examples](https://github.com/IeuanWalker/Maui.StateButton/tree/ma
 ![Example gif](/Example.gif)
 
 ## How to use it?
-Install the [NuGet package](https://www.nuget.org/packages/IeuanWalker.Maui.StateButton/) into your shared project project
+Install the [NuGet package](https://www.nuget.org/packages/KbrKiras.Maui.StateButton/) into your shared project project
 ```
 Install-Package IeuanWalker.Maui.StateButton
 ```
