@@ -24,7 +24,7 @@ Install-Package IeuanWalker.Maui.StateButton
 
 Then in the MauiProgram.cs, and the StateButton configuration method - 
 ```csharp
-using IeuanWalker.Maui.StateButton;
+using KbrKiras.Maui.StateButton;
 ```
 ```csharp
 builder
