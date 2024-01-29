@@ -1,6 +1,6 @@
-﻿using IeuanWalker.Maui.StateButton.Platform;
+﻿using KbrKiras.Maui.StateButton.Platform;
 
-namespace IeuanWalker.Maui.StateButton.Handler;
+namespace KbrKiras.Maui.StateButton.Handler;
 public partial class StateButtonHandler
 {
 	protected override CustomContentViewGroup CreatePlatformView()

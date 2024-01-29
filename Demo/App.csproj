@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFrameworks>net7.0-android;net7.0-ios;</TargetFrameworks>
+		<TargetFrameworks>net8.0-android;net8.0-ios;</TargetFrameworks>
 		<OutputType>Exe</OutputType>
 		<RootNamespace>App</RootNamespace>
 		<UseMaui>true</UseMaui>
@@ -13,7 +13,7 @@
 		<ApplicationTitle>StateButton demo</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>IeuanWalker.Demo.StateButton</ApplicationId>
+		<ApplicationId>KbrKiras.Demo.StateButton</ApplicationId>
 		<ApplicationIdGuid>78B8245A-7B57-41B6-A3BC-DA159DC85DE2</ApplicationIdGuid>
 
 		<!-- Versions -->
@@ -30,7 +30,7 @@
 	  <CodesignKey>iPhone Distribution: CARDIFF COUNTY COUNCIL (RHSME4M265)</CodesignKey>
 	</PropertyGroup>
 
-	<PropertyGroup Condition="'$(TargetFramework)'=='net7.0-ios'">
+	<PropertyGroup Condition="'$(TargetFramework)'=='net8.0-ios'">
 	  <CodesignKey>Apple Development: Ieuan Walker (R4SVVV33HW)</CodesignKey>
 	  <CodesignProvision>VS: WildCard Development</CodesignProvision>
 	</PropertyGroup>
@@ -63,7 +63,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\Scr\IeuanWalker.Maui.StateButton.csproj" />
+	  <ProjectReference Include="..\Scr\KbrKiras.Maui.StateButton.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>

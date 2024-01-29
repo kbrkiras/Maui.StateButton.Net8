@@ -1,6 +1,6 @@
 ﻿using Microsoft.Maui.Handlers;
 
-namespace IeuanWalker.Maui.StateButton.Handler;
+namespace KbrKiras.Maui.StateButton.Handler;
 
 public interface IStateButtonHandler : IBorderHandler
 {

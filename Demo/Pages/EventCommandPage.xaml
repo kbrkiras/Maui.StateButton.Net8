@@ -4,7 +4,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:app="clr-namespace:App.ViewModels;assembly=App"
              xmlns:controls="clr-namespace:App.Controls.Examples;assembly=App"
-             xmlns:stateButton="clr-namespace:IeuanWalker.Maui.StateButton;assembly=IeuanWalker.Maui.StateButton"
+             xmlns:stateButton="clr-namespace:KbrKiras.Maui.StateButton;assembly=KbrKiras.Maui.StateButton"
              Title="Event command page">
     <ContentPage.BindingContext>
         <app:TestViewModel />

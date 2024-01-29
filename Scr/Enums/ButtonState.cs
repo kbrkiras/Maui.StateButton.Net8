@@ -1,4 +1,4 @@
-﻿namespace IeuanWalker.Maui.StateButton.Enums;
+﻿namespace KbrKiras.Maui.StateButton.Enums;
 
 public enum ButtonState
 {

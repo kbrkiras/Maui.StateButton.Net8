@@ -4,7 +4,7 @@ using Java.Lang;
 using Microsoft.Maui.Platform;
 using String = Java.Lang.String;
 
-namespace IeuanWalker.Maui.StateButton.Platform;
+namespace KbrKiras.Maui.StateButton.Platform;
 public class CustomContentViewGroup : ContentViewGroup
 {
 	Rect _rect;

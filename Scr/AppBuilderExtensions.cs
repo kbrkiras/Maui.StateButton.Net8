@@ -1,6 +1,6 @@
-﻿using IeuanWalker.Maui.StateButton.Handler;
+﻿using KbrKiras.Maui.StateButton.Handler;
 
-namespace IeuanWalker.Maui.StateButton;
+namespace KbrKiras.Maui.StateButton;
 
 /// <summary>
 /// This class contains CustomSwitch <see cref="MauiAppBuilder"/> extensions.

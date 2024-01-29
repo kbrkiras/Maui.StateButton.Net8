@@ -6,8 +6,8 @@ on:
     
 env:
   NET_VERSION: 7.0.101
-  PROJECT_PATH: 'Scr/IeuanWalker.Maui.StateButton.csproj'
-  NUGET_PATH: './**/IeuanWalker.Maui.StateButton.${{ github.event.release.tag_name }}.nupkg'
+  PROJECT_PATH: 'Scr/KbrKiras.Maui.StateButton.csproj'
+  NUGET_PATH: './**/KbrKiras.Maui.StateButton.${{ github.event.release.tag_name }}.nupkg'
 
 jobs:
   build:

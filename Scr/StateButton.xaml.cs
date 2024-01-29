@@ -1,7 +1,7 @@
 ﻿using System.Windows.Input;
-using IeuanWalker.Maui.StateButton.Enums;
+using KbrKiras.Maui.StateButton.Enums;
 
-namespace IeuanWalker.Maui.StateButton;
+namespace KbrKiras.Maui.StateButton;
 
 public partial class StateButton : Border
 {
