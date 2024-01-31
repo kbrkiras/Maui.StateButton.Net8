@@ -19,12 +19,12 @@ Check out the [examples](https://github.com/IeuanWalker/Maui.StateButton/tree/ma
 ## How to use it?
 Install the [NuGet package](https://www.nuget.org/packages/KbrKiras.Maui.StateButton/) into your shared project project
 ```
-Install-Package IeuanWalker.Maui.StateButton
+Install-Package KbrKiras.Maui.StateButton
 ```
 
 Then in the MauiProgram.cs, and the StateButton configuration method - 
 ```csharp
-using IeuanWalker.Maui.StateButton;
+using KbrKiras.Maui.StateButton;
 ```
 ```csharp
 builder
